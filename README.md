@@ -5,11 +5,11 @@ Primarily this is used to have a central repo of study notes for various certs a
 Exam outline as of 8/22/2023
 
 <b>Domains by weight</b>
-<i>Domain 1: Design Secure Architectures - 30%
+<br><i>Domain 1: Design Secure Architectures - 30%
 Domain 2: Design Resilient Architectures - 26%
 Domain 3: Design High-Performing Architectures - 24%
 Domain 4: Design Cost-Optimized Architectures - 20%
-</i>
+</i></br>
 
 Domain 1 - Design Secure Architectures Broken Down
 Knowledge of
