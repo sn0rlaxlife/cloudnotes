@@ -13,12 +13,12 @@ Domain 4: Design Cost-Optimized Architectures - 20%
 
 Domain 1 - Design Secure Architectures Broken Down
 <br>Knowledge of
-• Access controls and management across multiple accounts
+<div>• Access controls and management across multiple accounts
 • AWS federated access and identity services (for example, AWS Identity and Access 
 Management [IAM], AWS Single Sign-On [AWS SSO])
 • AWS global infrastructure (for example, Availability Zones, AWS Regions)
 • AWS security best practices (for example, the principle of least privilege)
-• The AWS shared responsibility model
+• The AWS shared responsibility model</div>
 <b> Skills in</b>
 • Applying AWS security best practices to IAM users and root users (for example, multi-factor 
 authentication [MFA])
