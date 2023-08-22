@@ -12,7 +12,7 @@ Domain 4: Design Cost-Optimized Architectures - 20%
 </i></br>
 
 Domain 1 - Design Secure Architectures Broken Down
-Knowledge of
+<br>Knowledge of
 • Access controls and management across multiple accounts
 • AWS federated access and identity services (for example, AWS Identity and Access 
 Management [IAM], AWS Single Sign-On [AWS SSO])
@@ -29,6 +29,7 @@ STS], role switching, cross-account access)
 service control policies [SCPs])
 • Determining the appropriate use of resource policies for AWS services
 • Determining when to federate a directory service with IAM roles
+</br>
 
 Tasks Statement 2: Design Secure workloads and applications
 Knowledge of:
